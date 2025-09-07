@@ -264,6 +264,60 @@
 
 ## Training Efficiency
 
+- Avelar, Victor, Patrick Donovan, Paul Lin, Wendy Torell, and Maria A. Torres Arango. “The AI Disruption: Challenges and Guidance for Data Center Design.” Schneider Electric White Paper 110 (Version 1.1), 2023. https://www.se.com/us/en/download/document/SPD_WP110_EN/
+
+- Bozinovski, Stevo, and Ante Fulgosi. “The Influence of Pattern Similarity and Transfer of Learning upon Training of a Base Perceptron B2.” In *Proceedings of the Symposium Informatica*, Bled, 1976. https://www.informatica.si/index.php/informatica/article/view/2828
+
+- Ganin, Yaroslav, and Victor Lempitsky. “Unsupervised Domain Adaptation by Backpropagation.” *arXiv*, 2014. https://doi.org/10.48550/arXiv.1409.7495
+
+- Brown, Tom B., Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, et al. “Language Models Are Few-Shot Learners.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2005.14165
+
+- Grattafiori, Aaron, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, et al. “The Llama 3 Herd of Models.” *arXiv*, 2024. https://doi.org/10.48550/arXiv.2407.21783
+
+- Han, Song, Jeff Pool, John Tran, and William J. Dally. “Learning Both Weights and Connections for Efficient Neural Networks.” *arXiv*, 2015. https://doi.org/10.48550/arXiv.1506.02626
+
+- LeCun, Yann, John S. Denker, and Sara A. Solla. “Optimal Brain Damage.” In *Advances in Neural Information Processing Systems 2 (NeurIPS 1989)*. https://proceedings.neurips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html
+
+- Anwar, Sajid, Kyuyeon Hwang, and Wonyong Sung. “Structured Pruning of Deep Convolutional Neural Networks.” *arXiv*, 2015. https://doi.org/10.48550/arXiv.1512.08571
+
+- Golub, Gene H., and Charles F. Van Loan. *Matrix Computations*. 3rd ed. Baltimore: Johns Hopkins University Press, 1996.
+
+- Martens, James, and Roger Grosse. “Optimizing Neural Networks with Kronecker-Factored Approximate Curvature.” *arXiv*, 2015. https://doi.org/10.48550/arXiv.1503.05671
+
+- Novikov, Alexander, Dmitry Podoprikhin, Anton Osokin, and Dmitry Vetrov. “Tensorizing Neural Networks.” *arXiv*, 2015. https://doi.org/10.48550/arXiv.1509.06569
+
+- Ren, Yuxin, Benyou Wang, Lifeng Shang, Xin Jiang, and Qun Liu. “Exploring Extreme Parameter Compression for Pre-trained Language Models.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2205.10036
+
+- Thorsteinsson, Hallgrimur, Valdemar J. Henriksen, Tong Chen, and Raghavendra Selvan. “Adversarial Fine-Tuning of Compressed Neural Networks for Joint Improvement of Robustness and Efficiency.” *arXiv*, 2024. https://doi.org/10.48550/arXiv.2403.09441
+
+- Hu, Edward J., Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen. “LoRA: Low-Rank Adaptation of Large Language Models.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2106.09685
+
+- IEEE. *IEEE Standard for Floating-Point Arithmetic (IEEE Std 754-2019).* 2019. https://doi.org/10.1109/IEEESTD.2019.8766229
+
+- Micikevicius, Paulius, Dušan Stošić, Neil Burgess, Marius Cornea, Pradeep Dubey, Richard Grisenthwaite, Sangwon Ha, et al. “FP8 Formats for Deep Learning.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2209.05433
+
+- Dettmers, Tim, and Luke Zettlemoyer. “The Case for 4-Bit Precision: k-Bit Inference Scaling Laws.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2212.09720
+
+- PyTorch Foundation. “Introducing Native PyTorch Automatic Mixed Precision for Faster Training on NVIDIA GPUs.” PyTorch Blog, July 28, 2020. https://pytorch.org/blog/accelerating-training-on-nvidia-gpus-with-pytorch-automatic-mixed-precision/
+
+- Kingma, Diederik P., and Jimmy Ba. “Adam: A Method for Stochastic Optimization.” *arXiv*, 2014. https://doi.org/10.48550/arXiv.1412.6980
+
+- Selvan, Raghavendra, Julian Schön, and Erik B. Dam. “Operating Critical Machine Learning Models in Resource Constrained Regimes.” *arXiv*, 2023. https://doi.org/10.48550/arXiv.2303.10181
+
+- Dettmers, Tim, Mike Lewis, Sam Shleifer, and Luke Zettlemoyer. “8-Bit Optimizers via Block-Wise Quantization.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2110.02861
+
+- AskariHemmat, MohammadHossein, Ahmadreza Jeddi, Reyhane Askari Hemmat, Ivan Lazarevich, Alexander Hoffman, Sudhakar Sah, Ehsan Saboori, Yvon Savaria, and Jean-Pierre David. “QGen: On the Ability to Generalize in Quantization Aware Training.” *arXiv*, 2024. https://doi.org/10.48550/arXiv.2404.11769
+
+- Jacob, Benoit, Skirmantas Kligys, Bo Chen, Menglong Zhu, Matthew Tang, Andrew Howard, Hartwig Adam, and Dmitry Kalenichenko. “Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference.” *arXiv*, 2017. https://doi.org/10.48550/arXiv.1712.05877
+
+- Loeschcke, Sebastian, Mads Toftrup, Michael J. Kastoryano, Serge Belongie, and Vésteinn Snæbjarnarson. “LoQT: Low-Rank Adapters for Quantized Pretraining.” *NeurIPS 2024*. Preprint *arXiv*, 2024. https://doi.org/10.48550/arXiv.2405.16528
+
+- Dettmers, Tim, Artidoro Pagnoni, Ari Holtzman, and Luke Zettlemoyer. “QLoRA: Efficient Finetuning of Quantized LLMs.” *arXiv*, 2023. https://doi.org/10.48550/arXiv.2305.14314
+
+- Kirkpatrick, James, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, et al. “Overcoming Catastrophic Forgetting in Neural Networks.” *Proceedings of the National Academy of Sciences* 114, no. 13 (2017): 3521–3526. https://doi.org/10.1073/pnas.1611835114
+
+- Hooker, Sara, Nyalleng Moorosi, Gregory Clark, Samy Bengio, and Emily Denton. “Characterising Bias in Compressed Models.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2010.03058
+
 ## Lean Inference
 
 ## Hardware Considerations
