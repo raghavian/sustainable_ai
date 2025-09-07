@@ -1,6 +1,15 @@
 # Overview
 
 1. [Sustainability and Artificial Intelligence](#sustainability-and-artificial-intelligence)
+2. [Under the Hood of Generative AI](#under-the-hood-of-generative-ai)
+3. [Quantifying the Efficiency of Deep Learning](#quantifying-the-efficiency-of-deep-learning)
+4. [Data Parsimony](#data-parsimony)
+5. [Automating Model Selection](#automating-model-selection)
+6. [Training Efficiency](#training-efficiency)
+7. [Lean Inference](#lean-inference)
+8. [Hardware Considerations](#hardware-considerations)
+9. [A Recipe for Sustainable AI](#a-recipe-for-sustainable-ai)
+10. [Toward Sustainable AI](#toward-sustainable-ai)
 
 ## Sustainability and Artificial Intelligence
 
@@ -70,7 +79,7 @@
 
 - Wright, Dustin, Christian Igel, Gabrielle Samuel, and Raghavendra Selvan. “Efficiency Is Not Enough: A Critical Perspective of Environmentally Sustainable AI.” *Communications of the ACM* 68, no. 7 (2025): 62–69. https://doi.org/10.1145/3724500
 
-## [Chapter 2: Under the Hood of Generative AI](#ch02)
+## Under the Hood of Generative AI
 
 - Brown, Tom B., Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, et al. “Language Models Are Few-Shot Learners.” *arXiv*, May 28, 2020. https://doi.org/10.48550/arXiv.2005.14165
 
@@ -122,7 +131,7 @@
 
 - Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. “Compute Trends Across Three Eras of Machine Learning.” *2022 International Joint Conference on Neural Networks (IJCNN)*, July 18, 2022: 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914. See also the preprint: *arXiv*, February 11, 2022. https://arxiv.org/abs/2202.05924
 
-## [Chapter 3: Quantifying the Efficiency of Deep Learning](#ch03)
+## Quantifying the Efficiency of Deep Learning
 
 - Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. “Compute Trends Across Three Eras of Machine Learning.” *Proceedings of the 2022 International Joint Conference on Neural Networks (IJCNN)*, July 18, 2022, 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914
 
@@ -161,7 +170,7 @@
 - Patterson, David, Joseph Gonzalez, Urs Hölzle, Quoc Le, Chen Liang, Lluis-Miquel Munguia, Daniel Rothchild, David So, Maud Texier, and Jeff Dean. “The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink.” *arXiv* (April 11, 2022). https://doi.org/10.48550/arXiv.2204.05149
 
 
-## [Chapter 4: Data Parsimony](#ch04)
+## Data Parsimony
 
 - Grattafiori, Aaron, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, et al. “The Llama 3 Herd of Models.” *arXiv*, 2024. https://doi.org/10.48550/arXiv.2407.21783
 
@@ -208,7 +217,7 @@
 - Jin, Wei, Lingxiao Zhao, Shichang Zhang, Yozen Liu, Jiliang Tang, and Neil Shah. “Graph Condensation for Graph Neural Networks.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2110.07580
 
 
-## [Chapter 5: Automating Model Selection](#ch05)
+## Automating Model Selection
 
 - Zoph, Barret, and Quoc V. Le. “Neural Architecture Search with Reinforcement Learning.” *arXiv*, November 5, 2016. https://doi.org/10.48550/arXiv.1611.01578
 
@@ -253,13 +262,13 @@
 - Dooley, Samuel, Rhea Sanjay Sukthanker, John P. Dickerson, Colin White, Frank Hutter, and Micah Goldblum. “Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition.” In *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*. 2023. https://papers.nips.cc/paper_files/paper/2023/hash/eb3c42ddfa16d8421fdba13528107cc1-Abstract-Conference.html
 
 
-## [Chapter 6: Training Efficiency](#ch06)
+## Training Efficiency
 
-## [Chapter 7: Lean Inference](#ch07)
+## Lean Inference
 
-## [Chapter 8: Hardware Considerations](#ch08)
+## Hardware Considerations
 
-## [Chapter 9: A Recipe For Sustainable AI](#ch09)
+## A Recipe For Sustainable AI
 
-## [Chapter 10: Toward Sustainable AI](#ch10)
+## Toward Sustainable AI
 
