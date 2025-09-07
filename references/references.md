@@ -80,7 +80,7 @@
 
 - Bengio, Yoshua, Aaron Courville, and Pascal Vincent. “Representation Learning: A Review and New Perspectives.” *arXiv*, June 24, 2012. https://doi.org/10.48550/arXiv.1206.5538
 
-- Gonzalez, Rafael C., and Paul Wintz. *Digital Image Processing*. 2nd ed. Reading, MA: Addison-Wesley, 1987.
+- Gonzalez, Rafael C., and Richard E. Woods. *Digital Image Processing*. 2nd ed. Reading, MA: Addison-Wesley, 1987.
 
 - Kramer, Mark A. “Nonlinear Principal Component Analysis Using Autoassociative Neural Networks.” *AIChE Journal* 37, no. 2 (1991): 233–243. https://doi.org/10.1002/aic.690370209
 
@@ -119,6 +119,43 @@
 - Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. “Compute Trends Across Three Eras of Machine Learning.” *2022 International Joint Conference on Neural Networks (IJCNN)*, July 18, 2022: 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914. See also the preprint: *arXiv*, February 11, 2022. https://arxiv.org/abs/2202.05924
 
 # Chapter 3: Quantifying the Efficiency of Deep Learning
+
+- Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. “Compute Trends Across Three Eras of Machine Learning.” *Proceedings of the 2022 International Joint Conference on Neural Networks (IJCNN)*, July 18, 2022, 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914
+
+- Wright, Dustin, Christian Igel, Gabrielle Samuel, and Raghavendra Selvan. “Efficiency Is Not Enough: A Critical Perspective of Environmentally Sustainable AI.” *Communications of the ACM* 68, no. 7 (2025): 62–69. https://doi.org/10.1145/3724500
+
+- Menabrea, L. F. “Sketch of the Analytical Engine Invented by Charles Babbage, Esq.” *Bibliothèque Universelle de Genève* (October 1842). English translation with notes by Ada Lovelace, 1843. http://psychclassics.yorku.ca/Lovelace/menabrea.htm
+
+- Intergovernmental Panel on Climate Change (IPCC). *Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change.* Cambridge: Cambridge University Press, 2014. https://doi.org/10.1017/CBO9781107415416
+
+- Freitag, Charlotte, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Blair, and Adrian Friday. “The Real Climate and Transformative Impact of ICT: A Critique of Estimates, Trends, and Regulations.” *Patterns* 2, no. 9 (2021): 100340. https://doi.org/10.1016/j.patter.2021.100340
+
+- Purvis, Ben, Yong Mao, and Darren Robinson. “Three Pillars of Sustainability: In Search of Conceptual Origins.” *Sustainability Science* 14, no. 3 (2019): 681–695. https://doi.org/10.1007/s11625-018-0627-5
+
+- Strassen, Volker. “Gaussian Elimination Is Not Optimal.” *Numerische Mathematik* 13, no. 4 (1969): 354–356. https://doi.org/10.1007/BF02165411
+
+- Fawzi, Alhussein, Matej Balog, Aja Huang, Thomas Hubert, Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov, et al. “Discovering Faster Matrix Multiplication Algorithms with Reinforcement Learning.” *Nature* 610, no. 7930 (2022): 47–53. https://doi.org/10.1038/s41586-022-05172-4
+
+- Ahmed, Nur, and Muntasir Wahed. “The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research.” *arXiv* (October 22, 2020). https://doi.org/10.48550/arXiv.2010.15581
+
+- Dodge, Jesse, Taylor Prewitt, Remi Tachet des Combes, Erika Odmark, Roy Schwartz, Emma Strubell, Alexandra Sasha Luccioni, Noah A. Smith, Nicole DeCario, and Will Buchanan. “Measuring the Carbon Intensity of AI in Cloud Instances.” In *Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22)*, June 20–24, 2022, 1877–1894. https://doi.org/10.1145/3531146.3533234
+
+- Hwang, Tim. “Computational Power and the Social Impact of Artificial Intelligence.” *arXiv* (March 23, 2018). https://doi.org/10.48550/arXiv.1803.08971
+
+- Strubell, Emma, Ananya Ganesh, and Andrew McCallum. “Energy and Policy Considerations for Deep Learning in NLP.” *arXiv* (June 5, 2019). https://doi.org/10.48550/arXiv.1906.02243
+
+- Polimeni, John M., Kozo Mayumi, Mario Giampietro, and Blake Alcott. *The Myth of Resource Efficiency: The Jevons Paradox.* London: Earthscan, 2008.
+
+- Radovanovic, Ana, Ross Koningstein, Ian Schneider, Bokan Chen, Alexandre Duarte, Binz Roy, Diyue Xiao, et al. “Carbon-Aware Computing for Datacenters.” *arXiv* (June 11, 2021). https://doi.org/10.48550/arXiv.2106.11750
+
+- Anthony, Lasse F. Wolff, Benjamin Kanding, and Raghavendra Selvan. “Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models.” *arXiv* (July 6, 2020). https://doi.org/10.48550/arXiv.2007.03051
+
+- Bouza, Lucía, Aurélie Bugeau, and Loïc Lannelongue. “How to Estimate Carbon Footprint When Training Deep Learning Models? A Guide and Review.” *Environmental Research Communications* 5, no. 11 (2023): 115014. https://doi.org/10.1088/2515-7620/acf81b
+
+- Wolpert, David H., and William G. Macready. “No Free Lunch Theorems for Optimization.” *IEEE Transactions on Evolutionary Computation* 1, no. 1 (1997): 67–82. https://doi.org/10.1109/4235.585893
+
+- Patterson, David, Joseph Gonzalez, Urs Hölzle, Quoc Le, Chen Liang, Lluis-Miquel Munguia, Daniel Rothchild, David So, Maud Texier, and Jeff Dean. “The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink.” *arXiv* (April 11, 2022). https://doi.org/10.48550/arXiv.2204.05149
+
 
 # Chapter 4: Data Parsimony
 
