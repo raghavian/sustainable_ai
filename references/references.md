@@ -437,5 +437,39 @@
 
 ## A Recipe For Sustainable AI
 
+- Jones, Capers. *The Year 2000 Software Problem: Quantifying the Costs and Assessing the Consequences*. Addison-Wesley, 1997.
+
+- Cunningham, Ward. “The WyCash Portfolio Management System.” In *Addendum to the Proceedings of the ACM Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA ’92)*, 29–30. 1992. https://doi.org/10.1145/157709.157715
+
+- Sculley, D., Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-François Crespo, and Dan Dennison. “Hidden Technical Debt in Machine Learning Systems.” In *Advances in Neural Information Processing Systems 28 (NeurIPS 2015)*, 2503–11. 2015. https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+
+- Kapoor, Sayash, and Arvind Narayanan. “Leakage and the Reproducibility Crisis in ML-Based Science.” *Patterns* 4, no. 9 (2023): 100804. https://doi.org/10.1016/j.patter.2023.100804
+
+- Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. “Scaling Laws for Neural Language Models.” *arXiv*, January 23, 2020. https://doi.org/10.48550/arXiv.2001.08361
+
+- Heidorn, P. Bryan. “Shedding Light on the Dark Data in the Long Tail of Science.” *Library Trends* 57, no. 2 (2008): 280–299. https://doi.org/10.1353/lib.0.0036
+
+- Evchenko, Mikhail, Joaquin Vanschoren, Holger H. Hoos, Marc Schoenauer, and Michèle Sebag. “Frugal Machine Learning.” *arXiv*, November 5, 2021. https://doi.org/10.48550/arXiv.2111.03731
+
+- DeepSeek-AI, et al. “DeepSeek-V3 Technical Report.” *arXiv*, December 27, 2024 (rev. February 18, 2025). https://doi.org/10.48550/arXiv.2412.19437
+
+- Spoczynski, Marcin, Marcela S. Melara, and Sebastian Szyller. “Atlas: A Framework for ML Lifecycle Provenance & Transparency.” *arXiv*, February 26, 2025. https://doi.org/10.48550/arXiv.2502.19567
+
+- Selvan, Raghavendra, Kazem Mostafavi Isfahani, Martin Eklund, and Rasmus Reinhold Paulsen. “PePR: Performance Per Resource Unit as a Metric to Promote Small-Scale Deep Learning in Medical Image Analysis.” *Proceedings of Machine Learning Research* 265 (2025). https://proceedings.mlr.press/v265/selvan25a.html
+
+- International Organization for Standardization/International Electrotechnical Commission/IEEE. *ISO/IEC/IEEE 32675:2022 Information Technology—DevOps—Building Reliable and Secure Systems Including Application Build, Package and Deployment.* Geneva: ISO/IEC/IEEE, 2022. https://www.iso.org/standard/83132.html
+
+- Salama, Khalid, Jarek Kazmierczak, and Donna Schut. *Practitioners Guide to MLOps: A Framework for Continuous Delivery and Automation of Machine Learning.* Google Cloud, May 2021. https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
+
+- MLOps SIG. “MLOps Principles.” 2025. https://ml-ops.org/content/mlops-principles
+
+- Mitchell, Margaret, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, and Timnit Gebru. “Model Cards for Model Reporting.” In *Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT\*)*, 220–229. New York: ACM, 2019. https://doi.org/10.1145/3287560.3287596
+
+- Inie, Nanna, Jeanette Falk, and Raghavendra Selvan. “How CO2STLY Is CHI? The Carbon Footprint of Generative AI in HCI Research and What We Should Do About It.” In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI ’25).* New York: ACM, 2025. https://doi.org/10.1145/3706598.3714227
+
+- McMahon, James E., and Stephen Wiel. *Energy-Efficiency Labels and Standards: A Guidebook for Appliances, Equipment and Lighting.* Washington, DC: Collaborative Labeling and Appliance Standards Program (CLASP), 2001. https://doi.org/10.2172/836221
+
+- Fischer, Raphael, Matthias Jakobs, and Katharina Morik. “Energy Efficiency Considerations for Popular AI Benchmarks.” *arXiv*, April 17, 2023. https://doi.org/10.48550/arXiv.2304.08359
+
 ## Toward Sustainable AI
 
