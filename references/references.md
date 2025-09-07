@@ -457,7 +457,7 @@ Chapter-wise collection of bibliography.
 
 - Spoczynski, Marcin, Marcela S. Melara, and Sebastian Szyller. “Atlas: A Framework for ML Lifecycle Provenance & Transparency.” *arXiv*, February 26, 2025. https://doi.org/10.48550/arXiv.2502.19567
 
-- Selvan, Raghavendra, Kazem Mostafavi Isfahani, Martin Eklund, and Rasmus Reinhold Paulsen. “PePR: Performance Per Resource Unit as a Metric to Promote Small-Scale Deep Learning in Medical Image Analysis.” *Proceedings of Machine Learning Research* 265 (2025). https://proceedings.mlr.press/v265/selvan25a.html
+- Selvan, Raghavendra, Bob Pepin, Christian Igel, Gabrielle Samuel and Erik B Dam. “PePR: Performance Per Resource Unit as a Metric to Promote Small-Scale Deep Learning in Medical Image Analysis.” *Proceedings of Machine Learning Research* 265 (2025). https://proceedings.mlr.press/v265/selvan25a.html
 
 - International Organization for Standardization/International Electrotechnical Commission/IEEE. *ISO/IEC/IEEE 32675:2022 Information Technology—DevOps—Building Reliable and Secure Systems Including Application Build, Package and Deployment.* Geneva: ISO/IEC/IEEE, 2022. https://www.iso.org/standard/83132.html
 
@@ -474,4 +474,5 @@ Chapter-wise collection of bibliography.
 - Fischer, Raphael, Matthias Jakobs, and Katharina Morik. “Energy Efficiency Considerations for Popular AI Benchmarks.” *arXiv*, April 17, 2023. https://doi.org/10.48550/arXiv.2304.08359
 
 ## Toward Sustainable AI
+
 
