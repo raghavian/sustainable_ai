@@ -320,6 +320,47 @@
 
 ## Lean Inference
 
+- Habgood, John. “The Ethics of Resource Allocation: A Case Study.” *Journal of Medical Ethics* 9, no. 1 (March 1983): 21–24. https://doi.org/10.1136/jme.9.1.21
+
+- Meta AI. “Llama 3.1 Model Card.” *Meta Llama Documentation*, accessed September 7, 2025. https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_1/  See also: Meta AI, “Introducing Llama 3.1: Our Most Capable Models to Date,” July 23, 2024. https://ai.meta.com/blog/meta-llama-3-1/
+
+- Avelar, Victor, Patrick Donovan, Paul Lin, Wendy Torell, and Maria A. Torres Arango. *The AI Disruption: Challenges and Guidance for Data Center Design*. Schneider Electric, White Paper 110, Version 1.1, September 7, 2023. https://media.datacenterdynamics.com/media/documents/Schneider_Electric_-_Modernization_WP110_V1.1_EN.pdf
+
+- Iandola, Forrest N., Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, and Kurt Keutzer. “SqueezeNet: AlexNet-Level Accuracy with 50x Fewer Parameters and <0.5MB Model Size.” *arXiv*, 2016. https://doi.org/10.48550/arXiv.1602.07360
+
+- Howard, Andrew G., Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam. “MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.” *arXiv*, 2017. https://doi.org/10.48550/arXiv.1704.04861
+
+- Tan, Mingxing, and Quoc V. Le. “EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.” *arXiv*, 2019. https://doi.org/10.48550/arXiv.1905.11946
+
+- Wu, Bichen, Xiaoliang Dai, Peizhao Zhang, Yanghan Wang, Fei Sun, Yiming Wu, Yuandong Tian, Peter Vajda, Yangqing Jia, and Kurt Keutzer. “FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search.” In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019. https://doi.org/10.1109/CVPR.2019.01099
+
+- Cai, Han, Chuang Gan, Tianzhe Wang, Zhekai Zhang, and Song Han. “Once-for-All: Train One Network and Specialize It for Efficient Deployment.” *arXiv*, 2019. https://doi.org/10.48550/arXiv.1908.09791
+
+- Bakhtiarifard, Pedram, Christian Igel, and Raghavendra Selvan. “EC-NAS: Energy Consumption Aware Tabular Benchmarks for Neural Architecture Search.” In *ICASSP 2024 – IEEE International Conference on Acoustics, Speech and Signal Processing*, 5660–5664. 2024. https://doi.org/10.1109/ICASSP48485.2024.10448303
+
+- Miettinen, Kaisa. *Nonlinear Multiobjective Optimization*. New York: Springer, 1999. https://doi.org/10.1007/978-1-4615-5563-6
+
+- Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. “Distilling the Knowledge in a Neural Network.” *arXiv*, 2015. https://doi.org/10.48550/arXiv.1503.02531
+
+- Ren, Yuxin, Benyou Wang, Lifeng Shang, Xin Jiang, and Qun Liu. “Exploring Extreme Parameter Compression for Pre-trained Language Models.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2205.10036
+
+- Kullback, Solomon, and Richard A. Leibler. “On Information and Sufficiency.” *The Annals of Mathematical Statistics* 22, no. 1 (March 1951): 79–86. https://doi.org/10.1214/aoms/1177729694
+
+- Sanh, Victor, Lysandre Debut, Julien Chaumond, and Thomas Wolf. “DistilBERT, a Distilled Version of BERT: Smaller, Faster, Cheaper and Lighter.” *arXiv*, 2019. https://doi.org/10.48550/arXiv.1910.01108
+
+- Li, Chaojian, Zhongzhi Yu, Yonggan Fu, Yongan Zhang, Yang Zhao, Haoran You, Qixuan Yu, Yue Wang, and Yingyan (Celine) Lin. “HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2103.10584
+
+- Frankle, Jonathan, and Michael Carbin. “The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.” *arXiv*, 2018. https://doi.org/10.48550/arXiv.1803.03635
+
+- Oliver, B. M., J. R. Pierce, and C. E. Shannon. “The Philosophy of PCM.” *Proceedings of the IRE* 36, no. 11 (November 1948): 1324–1331. https://doi.org/10.1109/JRPROC.1948.231941
+
+- Krishnamoorthi, Raghuraman, James Reed, Min Ni, Chris Gottbrath, and Seth Weidman. “Introduction to Quantization on PyTorch.” *PyTorch Blog*, March 26, 2020. https://pytorch.org/blog/introduction-to-quantization-on-pytorch/
+
+- Pereira, Rui, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, and João Saraiva. “Ranking Programming Languages by Energy Efficiency.” *Sustainable Computing: Informatics and Systems* 28 (2021): 100407. https://doi.org/10.1016/j.suscom.2021.100407
+
+- Ahmed, Nur, and Muntasir Wahed. “The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2010.15581
+
+
 ## Hardware Considerations
 
 ## A Recipe For Sustainable AI
