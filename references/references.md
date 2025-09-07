@@ -206,6 +206,49 @@
 
 # Chapter 5: Automating Model Selection
 
+- Zoph, Barret, and Quoc V. Le. “Neural Architecture Search with Reinforcement Learning.” *arXiv*, November 5, 2016. https://doi.org/10.48550/arXiv.1611.01578
+
+- He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. “Deep Residual Learning for Image Recognition.” *arXiv*, December 10, 2015. https://doi.org/10.48550/arXiv.1512.03385
+
+- Ying, Chris, Aaron Klein, Esteban Real, Eric Christiansen, Kevin Murphy, and Frank Hutter. “NAS-Bench-101: Towards Reproducible Neural Architecture Search.” *arXiv*, February 25, 2019. https://doi.org/10.48550/arXiv.1902.09635
+
+- Elsken, Thomas, Jan Hendrik Metzen, and Frank Hutter. “Neural Architecture Search: A Survey.” *Journal of Machine Learning Research* 20 (2019): 1–21. http://www.jmlr.org/papers/volume20/18-598/18-598.pdf
+
+- Bakhtiarifard, Pedram, Christian Igel, and Raghavendra Selvan. “EC-NAS: Energy Consumption Aware Tabular Benchmarks for Neural Architecture Search.” In *ICASSP 2024 – IEEE International Conference on Acoustics, Speech and Signal Processing*, 5660–5664. April 2024. https://doi.org/10.1109/ICASSP48485.2024.10448303
+
+- Dai, Xiaoliang, Alvin Wan, Peizhao Zhang, Bichen Wu, Zijian He, Zhen Wei, Kan Chen, et al. “FBNetV3: Joint Architecture-Recipe Search Using Predictor Pretraining.” *arXiv*, June 3, 2020. https://doi.org/10.48550/arXiv.2006.02049
+
+- Wang, Yuyang, Zijie Li, and Amir Barati Farimani. “Graph Neural Networks for Molecules.” In *Machine Learning in Molecular Sciences*, edited by Chen Qu and Hanchao Liu, 21–66. Cham: Springer, 2023. https://doi.org/10.1007/978-3-031-37196-7_2
+
+- Mockus, J. B., and L. J. Mockus. “Bayesian Approach to Global Optimization and Application to Multiobjective and Constrained Problems.” *Journal of Optimization Theory and Applications* 70, no. 1 (1991): 157–172. https://doi.org/10.1007/BF00940509
+
+- Martinez-Cantin, Ruben. “BayesOpt: A Bayesian Optimization Library for Nonlinear Optimization, Experimental Design and Bandits.” *Journal of Machine Learning Research* 15 (2014): 3915–3919. https://www.jmlr.org/papers/volume15/martinezcantin14a/martinezcantin14a.pdf
+
+- Song, Jiaming, Lantao Yu, Willie Neiswanger, and Stefano Ermon. “A General Recipe for Likelihood-Free Bayesian Optimization.” In *Proceedings of the 39th International Conference on Machine Learning (PMLR 162)*, 20384–20404, 2022. https://proceedings.mlr.press/v162/song22b.html
+
+- Cai, Han, Chuang Gan, Tianzhe Wang, Zhekai Zhang, and Song Han. “Once-for-All: Train One Network and Specialize It for Efficient Deployment.” *arXiv*, August 26, 2019. https://doi.org/10.48550/arXiv.1908.09791
+
+- Zhao, Yiyang, Yunzhuo Liu, Bo Jiang, and Tian Guo. “CE-NAS: An End-to-End Carbon-Efficient Neural Architecture Search Framework.” *arXiv*, June 3, 2024. https://doi.org/10.48550/arXiv.2406.01414
+
+- Zhou, Kaixiong, Qingquan Song, Xiao Huang, and Xia Hu. “Auto-GNN: Neural Architecture Search of Graph Neural Networks.” *arXiv*, September 7, 2019. https://doi.org/10.48550/arXiv.1909.03184
+
+- Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. “Attention Is All You Need.” *arXiv*, June 12, 2017. https://doi.org/10.48550/arXiv.1706.03762
+
+- Frankle, Jonathan, and Michael Carbin. “The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.” *arXiv*, March 9, 2018. https://doi.org/10.48550/arXiv.1803.03635
+
+- Yang, Greg, Edward J. Hu, Igor Babuschkin, Szymon Sidor, Xiaodong Liu, David Farhi, Nick Ryder, Jakub Pachocki, Weizhu Chen, and Jianfeng Gao. “Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer.” *arXiv*, March 7, 2022. https://doi.org/10.48550/arXiv.2203.03466
+
+- Shazeer, Noam, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. “Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.” *arXiv*, January 23, 2017. https://doi.org/10.48550/arXiv.1701.06538
+
+- Davis, Andrew, and Itamar Arel. “Low-Rank Approximations for Conditional Feedforward Computation in Deep Neural Networks.” *arXiv*, December 16, 2013. https://doi.org/10.48550/arXiv.1312.4461
+
+- Klein, Aaron, and Frank Hutter. “Tabular Benchmarks for Joint Architecture and Hyperparameter Optimization.” *arXiv*, May 13, 2019. https://doi.org/10.48550/arXiv.1905.04970
+
+- Tan, Mingxing, and Quoc V. Le. “EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.” *arXiv*, May 28, 2019. https://doi.org/10.48550/arXiv.1905.11946
+
+- Dooley, Samuel, Rhea Sanjay Sukthanker, John P. Dickerson, Colin White, Frank Hutter, and Micah Goldblum. “Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face Recognition.” In *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*. 2023. https://papers.nips.cc/paper_files/paper/2023/hash/eb3c42ddfa16d8421fdba13528107cc1-Abstract-Conference.html
+
+
 # Chapter 6: Training Efficiency
 
 # Chapter 7: Lean Inference
