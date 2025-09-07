@@ -1,4 +1,6 @@
-# Overview
+# Bibliography for the book: Sustainable AI
+
+Chapter-wise collection of bibliography.
 
 1. [Sustainability and Artificial Intelligence](#sustainability-and-artificial-intelligence)
 2. [Under the Hood of Generative AI](#under-the-hood-of-generative-ai)
