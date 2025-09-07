@@ -363,6 +363,78 @@
 
 ## Hardware Considerations
 
+- Crawford, Kate. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence.* New Haven: Yale University Press, 2021.
+
+- Ramesh, Aditya, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, and Ilya Sutskever. “Zero-Shot Text-to-Image Generation.” In *Proceedings of the 38th International Conference on Machine Learning (ICML 2021)*, PMLR 139: 8821–8831, 2021. https://doi.org/10.48550/arXiv.2102.12092
+
+- McKinsey & Company. “AI Power: Expanding Data Center Capacity to Meet Growing Demand.” 2024. https://www.mckinsey.com/features/mckinsey-on-ai/our-insights/ai-power-expanding-data-center-capacity-to-meet-growing-demand
+
+- Zuckerberg, Mark. “Announcing a New AI Data Center in Richland Parish, Louisiana.” Facebook, January 2025.
+
+- International Energy Agency (IEA). *Electricity 2024: Analysis and Forecast to 2026.* Paris: IEA, 2024. https://iea.blob.core.windows.net/assets/70f034c0-528c-4177-8f4b-68c398c5b70b/Electricity2024.pdf
+
+- Williams, Eric D., Robert U. Ayres, and Miriam Heller. “The 1.7 Kilogram Microchip: Energy and Material Use in the Production of Semiconductor Devices.” *Environmental Science & Technology* 36, no. 24 (2002): 5504–5510. https://doi.org/10.1021/es025643o
+
+- Bux, Sebastian, Iris Heinrichs, Martin A. Böttcher, and Birgit Dröschel. “A Critical Analysis of Global Warming Potential of Data Centers in the Digital Era.” *Environment, Development and Sustainability* (2025). https://doi.org/10.1007/s10668-025-05434-z
+
+- Baldé, Kees, Federico Magalini, Pascal Leroy, Dunzhu Li, Vanessa Forti, Cristina Giulia Di Giuseppe, Musa Sisay, Vishal Sharma, Deepali Sinha Khetriwal, and Ruediger Kuehr. *The Global E-waste Monitor 2024.* Bonn/Geneva/Rotterdam: UNITAR, ITU, and ISWA, 2024. https://ewastemonitor.info/wp-content/uploads/2024/03/GEM_2024-Final.pdf
+
+- Wang, Peng, Ling-Yu Zhang, Asaf Tzachor, Eric Masanet, and Wei-Qiang Chen. “E-Waste Challenges of Generative Artificial Intelligence.” *Nature Computational Science* 4 (2024). https://doi.org/10.1038/s43588-024-00712-6
+
+- Bashroush, Rabih. “A Comprehensive Reasoning Framework for Hardware Refresh in Data Centers.” *IT Professional* 20, no. 4 (2018): 33–41. https://doi.org/10.1109/MITP.2018.053631338
+
+- Wright, Dustin, Christian Igel, Gabrielle Samuel, and Raghavendra Selvan. “Efficiency Is Not Enough: A Critical Perspective on Environmentally Sustainable AI.” *Communications of the ACM* 68, no. 7 (2025): 62–69. https://doi.org/10.1145/3724500
+
+- Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. “Scaling Laws for Neural Language Models.” *arXiv*, January 23, 2020. https://doi.org/10.48550/arXiv.2001.08361
+
+- Moore, Gordon E. “Cramming More Components onto Integrated Circuits.” *Electronics* 38, no. 8 (April 19, 1965): 114–117. https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf
+
+- Zhang, Nick. “Moore’s Law Is Dead, Long Live Moore’s Law!” *arXiv*, May 27, 2022. https://doi.org/10.48550/arXiv.2205.15011
+
+- Koomey, Jonathan G., Stephen Berard, Marla Sanchez, and Henry Wong. “Implications of Historical Trends in the Electrical Efficiency of Computing.” *IEEE Annals of the History of Computing* 33, no. 3 (2011): 46–54. https://doi.org/10.1109/MAHC.2010.28
+
+- Landauer, Rolf. “Irreversibility and Heat Generation in the Computing Process.” *IBM Journal of Research and Development* 5, no. 3 (1961): 183–191. https://doi.org/10.1147/rd.5.3.183
+
+- Selvan, Raghavendra, Julian Schön, and Erik B. Dam. “Operating Critical Machine Learning Models in Resource Constrained Regimes.” In *Artificial Intelligence and Computer Vision*, Lecture Notes in Computer Science, 433–445. Cham: Springer, 2024. https://doi.org/10.1007/978-3-031-47425-5_29
+
+- Landry, C., A. Jensen, A. O. Osherov, and A. L. McPartlin. “The Role of Artificial Intelligence in Radiotherapy Clinical Practice.” 2023.
+
+- NVIDIA. “NVIDIA H100 Tensor Core GPU Data Sheet.” 2024. https://www.nvidia.com/en-us/data-center/h100/
+
+- Pfister, Gregory. “Aspects of the InfiniBand Architecture.” In *Proceedings of the IEEE International Conference on Cluster Computing (CLUSTER 2001)*. 2001. https://www.computer.org/csdl/proceedings-article/cluster/2001/11160369/12OmNvDqsNA
+
+- NVIDIA. “What Is NVLink?” 2023. https://www.nvidia.com/en-us/data-center/nvlink/what-is-nvlink/
+
+- Goiri, Ismael, Kien Le, Thu D. Nguyen, Jordi Guitart, and Jordi Torres. “Greenslot: Scheduling Energy Consumption in Green Datacenters.” In *Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis (SC ’11).* New York: ACM, 2011. https://doi.org/10.1145/2063384.2063411
+
+- Radovanović, Ana, Ross Koningstein, Ian Schneider, Bokan Chen, Alexandre Duarte, Binz Roy, Diyue Xiao, Maya Haridasan, Patrick Hung, Nick Care, Saurav Talukdar, Eric Mullen, Kendal Smith, MariEllen Cottman, and Walfredo Cirne. “Carbon-Aware Computing for Datacenters.” *arXiv*, June 11, 2021. https://doi.org/10.48550/arXiv.2106.11750
+
+- Ahmed, Nur, and Muntasir Wahed. “The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research.” *arXiv*, October 22, 2020. https://doi.org/10.48550/arXiv.2010.15581
+
+- Raina, Rajat, Anand Madhavan, and Andrew Y. Ng. “Large-Scale Deep Unsupervised Learning Using Graphics Processors.” In *Proceedings of the 26th International Conference on Machine Learning (ICML ’09)*, 2009.
+
+- Cusumano, Michael A. “NVIDIA at the Center of the Generative AI Ecosystem—For Now.” *Communications of the ACM* 67, no. 1 (2024): 33–35. https://doi.org/10.1145/3631537
+
+- Jeon, Myeongjae, Shivaram Venkataraman, Amar Phanishayee, Junjie Qian, Wencong Xiao, and Fan Yang. “Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads.” In *2019 USENIX Annual Technical Conference (USENIX ATC 19)*, 947–960. 2019. https://www.usenix.org/conference/atc19/presentation/jeon
+
+- Robroek, Ties T. T. *Resourceful Learning: Training More Models with Fewer Resources.* PhD thesis, IT University of Copenhagen, 2024. https://en.itu.dk/-/media/EN/Research/PhD-Programme/PhD-defences/2024/PhD-thesis-Temporary-Version-TR-pdf.pdf
+
+- Robroek, Ties, Ehsan Yousefzadeh-Asl-Miandoab, and Pınar Tözün. “An Analysis of Collocation on GPUs for Deep Learning Training.” In *EuroSys ’24 Companion: Proceedings of the 4th Workshop on Machine Learning and Systems (EuroMLSys 2024).* New York: ACM, 2024. https://doi.org/10.1145/3642970.3655827
+
+- Tang, Zhenheng, Yuxin Wang, Qiang Wang, and Xiaowen Chu. “The Impact of GPU DVFS on the Energy and Performance of Deep Learning: An Empirical Study.” In *Proceedings of the 10th ACM International Conference on Future Energy Systems (e-Energy ’19)*, 315–325. 2019. https://doi.org/10.1145/3307772.3328315
+
+- Tang, Zhuo, Ling Qi, Zhenzhen Cheng, Kenli Li, Samee U. Khan, and Keqin Li. “An Energy-Efficient Task Scheduling Algorithm in DVFS-Enabled Cloud Environment.” *Journal of Grid Computing* 14, no. 1 (2016): 55–74. https://doi.org/10.1007/s10723-015-9334-y
+
+- Wu, Chun-Ming, Ruay-Shiung Chang, and Hsin-Ying Chan. “A Green Energy-Efficient Scheduling Algorithm Using the DVFS Technique for Cloud Datacenters.” *Future Generation Computer Systems* 37 (2014): 141–147. https://www.sciencedirect.com/science/article/abs/pii/S0167739X13001234
+
+- Arafa, Ahmed, Zinan Lin, Hanyang Mao, Abu Sebastian, and Onur Mutlu. “Verified Instruction-Level Energy Consumption Measurement for NVIDIA GPUs.” 2020.
+
+- Delestrac, Maxime, et al. “Analyzing GPU Energy Consumption in Data Movement and Storage.” 2024.
+
+- Li, Pengfei, Jianyi Yang, Mohammad A. Islam, and Shaolei Ren. “Making AI Less ‘Thirsty’: Uncovering and Addressing the Secret Water Footprint of AI Models.” *Communications of the ACM* 68, no. 7 (2025): 54–61. https://doi.org/10.1145/3724499
+
+- Kaack, Lynn H., Vinodkumar Prabhakaran, Peter Henderson, Timnit Gebru, Kate Crawford, Priya Donti, David Rolnick, and Emma Strubell. “Aligning Artificial Intelligence with Climate Change Mitigation.” *Nature Climate Change* 12 (2022): 518–527. https://doi.org/10.1038/s41558-022-01377-7
+
 ## A Recipe For Sustainable AI
 
 ## Toward Sustainable AI
