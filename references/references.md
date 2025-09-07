@@ -1,8 +1,16 @@
 # Chapter 1: Sustainability and Artificial Intelligence
 
-Calvin, Katherine, Dipak Dasgupta, Gerhard Krinner, Aditi Mukherji, Peter W. Thorne, Christopher Trisos, José Romero, et al. “IPCC, 2023: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (Eds.)]. IPCC, Geneva, Switzerland.,” July 21, 2023. https://doi.org/10.59327/ipcc/ar6-9789291691647.
+- Intergovernmental Panel on Climate Change (IPCC). *Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II, and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.* Geneva: IPCC, 2023. Edited by Hoesung Lee and José Romero. 184 pp. DOI: 10.59327/IPCC/AR6-9789291691647.
 
-Brundtland, Gro Harlem, Saleh A. Al-Athel, Lamine Mohammed Fadika, Istvan Lang, Ma Shijun, Margarita Marino De Botero, Nagendra Singh, et al. “Report of the World Commission on Environment and Development: ‘Our Common Future.’” UN Documents, January 1, 1987. http://www.channelingreality.com/Documents/Brundtland_Searchable.pdf.
+- World Commission on Environment and Development. *Our Common Future.* Oxford: Oxford University Press, 1987.
+
+- Jantzen, Jan, Henrik Lund, Brian Vad Mathiesen, and Poul Alberg Østergaard. “Sociotechnical Transition to Smart Energy: The Case of Samsø 1997–2030.” *Energy* 162 (August 3, 2018): 20–34. DOI: 10.1016/j.energy.2018.07.174.
+
+- United Nations Framework Convention on Climate Change (UNFCCC). “Samsø: An Island Community Pointing to the Future.” 2023. https://unfccc.int/climate-action/un-global-climate-action-awards/climate-leaders/samso.
+
+- McCarthy, John, Marvin Minsky, Nathaniel Rochester, and Claude E. Shannon. “Dartmouth Summer Research Project on Artificial Intelligence.” 1956. DOI: 10.1609/aimag.v27i4.1904.
+
+- Schmidhuber, Juergen. “Annotated History of Modern AI and Deep Learning.” *arXiv.org*, December 21, 2022. DOI: 10.48550/arXiv.2212.11279.
 
 # Chapter 2: Under the Hood of Generative AI
 
