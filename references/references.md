@@ -159,6 +159,51 @@
 
 # Chapter 4: Data Parsimony
 
+- Grattafiori, Aaron, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, et al. “The Llama 3 Herd of Models.” *arXiv*, 2024. https://doi.org/10.48550/arXiv.2407.21783
+
+- International Energy Agency. “Data Centres and Data Transmission Networks.” IEA, 2023. https://www.iea.org/analyses/data-centres-and-data-transmission-networks
+
+- Freitag, Charlotte, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Blair, and Adrian Friday. “The Climate Impact of ICT: A Review of Estimates, Trends and Regulations.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2102.02622
+
+- Seagate Technology LLC. *Enterprise Capacity 3.5 HDD: v5.1 Product Manual.* September 2017. https://www.seagate.com/files/www-content/product-content/enterprise-hdd-fam/enterprise-capacity-3-5-hdd/enterprise-capacity-3-5-hdd/en-us/docs/100805922c.pdf
+
+- Smith, Shaden, Mostofa Patwary, Brandon Norick, Patrick LeGresley, Samyam Rajbhandari, Jared Casper, Zhun Liu, et al. “Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, a Large-Scale Generative Language Model.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2201.11990
+
+- Hoffmann, Jordan, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, et al. “Training Compute-Optimal Large Language Models.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2203.15556
+
+- Villalobos, Pablo, and Anson Ho. *Trends in Training Dataset Sizes.* Epoch AI, 2022. https://epoch.ai/blog/trends-in-training-dataset-sizes
+
+- Anthony, Lasse F. Wolff, Benjamin Kanding, and Raghavendra Selvan. “CarbonTracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2007.03051
+
+- Desislavov, Radosvet, Fernando Martínez-Plumed, and José Hernández-Orallo. “Compute and Energy Consumption Trends in Deep Learning Inference.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2109.05472
+
+- Ricci Lara, María Agustina, Rodrigo Echeveste, and Enzo Ferrante. “Addressing Fairness in Artificial Intelligence for Medical Imaging.” *Nature Communications* 13, no. 1 (2022). https://doi.org/10.1038/s41467-022-32186-3
+
+- Mugabowindekwe, Maurice, Martin Brandt, Jérôme Chave, Florian Reiner, David L. Skole, Ankit Kariryaa, Christian Igel, et al. “Nation-wide Mapping of Tree-Level Aboveground Carbon Stocks in Rwanda.” *Nature Climate Change* 13 (2023): 91–97. https://doi.org/10.1038/s41558-022-01544-w
+
+- Settles, Burr. *Active Learning Literature Survey.* Computer Sciences Technical Report 1648. University of Wisconsin–Madison, 2009. https://burrsettles.com/pub/settles.activelearning.pdf
+
+- Baldridge, Jason, and Miles Osborne. “Active Learning and the Total Cost of Annotation.” In *Proceedings of the 2004 Conference on Empirical Methods in Natural Language Processing*, 9–16. Barcelona: Association for Computational Linguistics, 2004. https://aclanthology.org/W04-3202/
+
+- Toneva, Mariya, Alessandro Sordoni, Remi Tachet des Combes, Adam Trischler, Yoshua Bengio, and Geoffrey J. Gordon. “An Empirical Study of Example Forgetting during Deep Neural Network Learning.” *arXiv*, 2018. https://doi.org/10.48550/arXiv.1812.05159
+
+- Guo, Chengcheng, Bo Zhao, and Yanbing Bai. “DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning.” In *Database and Expert Systems Applications: 33rd International Conference, DEXA 2022, Vienna, Austria, August 22–24, 2022, Proceedings, Part I (LNCS 13108)*, 181–195. Cham: Springer, 2022. https://doi.org/10.1007/978-3-031-12423-5_14
+
+- Yu, Ruonan, Songhua Liu, and Xinchao Wang. “Dataset Distillation: A Comprehensive Review.” *arXiv*, 2023. https://doi.org/10.48550/arXiv.2301.07014
+
+- Zhao, Bo, and Hakan Bilen. “Dataset Condensation with Differentiable Siamese Augmentation.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2102.08259
+
+- Wang, Tongzhou, Jun-Yan Zhu, Antonio Torralba, and Alexei A. Efros. “Dataset Distillation.” *arXiv*, 2018. https://doi.org/10.48550/arXiv.1811.10959
+
+- Zhao, Bo, Konda Reddy Mopuri, and Hakan Bilen. “Dataset Condensation with Gradient Matching.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2006.05929
+
+- Amid, Ehsan, Rohan Anil, Wojciech Kotłowski, and Manfred K. Warmuth. “Learning from Randomly Initialized Neural Network Features.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2202.06438
+
+- Wolpert, David H., and William G. Macready. “No Free Lunch Theorems for Optimization.” *IEEE Transactions on Evolutionary Computation* 1, no. 1 (1997): 67–82. https://doi.org/10.1109/4235.585893
+
+- Jin, Wei, Lingxiao Zhao, Shichang Zhang, Yozen Liu, Jiliang Tang, and Neil Shah. “Graph Condensation for Graph Neural Networks.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2110.07580
+
+
 # Chapter 5: Automating Model Selection
 
 # Chapter 6: Training Efficiency
