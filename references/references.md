@@ -38,7 +38,7 @@
 
 - Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, et al. “Scaling Laws for Neural Language Models.” *arXiv.org*, January 23, 2020. https://doi.org/10.48550/arXiv.2001.08361
 
-- Bakhtiarifard, Pedram, Lisha Chen, Prateek Gupta, Vishal Rana, and Bill Howe. “Climate and Resource Awareness Is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race).” *arXiv.org*, February 27, 2025. https://doi.org/10.48550/arXiv.2502.20016
+- Bakhtiarifard, Pedram, Pınar Tözün, Christian Igel, and Raghavendra Selvan. “Climate and Resource Awareness Is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race).” *arXiv*, February 27, 2025. https://doi.org/10.48550/arXiv.2502.20016
 
 - International Energy Agency (IEA). *Energy and AI.* Paris: IEA, 2025. https://www.iea.org/reports/energy-and-ai
 
@@ -67,6 +67,56 @@
 - Wright, Dustin, Christian Igel, Gabrielle Samuel, and Raghavendra Selvan. “Efficiency Is Not Enough: A Critical Perspective of Environmentally Sustainable AI.” *Communications of the ACM* 68, no. 7 (2025): 62–69. https://doi.org/10.1145/3724500
 
 # Chapter 2: Under the Hood of Generative AI
+
+- Brown, Tom B., Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, et al. “Language Models Are Few-Shot Learners.” *arXiv*, May 28, 2020. https://doi.org/10.48550/arXiv.2005.14165
+
+- Rombach, Robin, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. “High-Resolution Image Synthesis with Latent Diffusion Models.” *arXiv*, December 20, 2021. https://doi.org/10.48550/arXiv.2112.10752
+
+- Agostinelli, Andrea, Timo I. Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, et al. “MusicLM: Generating Music from Text.” *arXiv*, January 26, 2023. https://doi.org/10.48550/arXiv.2301.11325
+
+- Bender, Emily M. “Resisting Dehumanization in the Age of ‘AI.’” *Current Directions in Psychological Science* 33, no. 2 (2024): 114–120. https://doi.org/10.1177/09637214231217286
+
+- Bakhtiarifard, Pedram, Pınar Tözün, Christian Igel, and Raghavendra Selvan. “Climate and Resource Awareness Is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race).” *arXiv*, February 27, 2025. https://doi.org/10.48550/arXiv.2502.20016
+
+- Bengio, Yoshua, Aaron Courville, and Pascal Vincent. “Representation Learning: A Review and New Perspectives.” *arXiv*, June 24, 2012. https://doi.org/10.48550/arXiv.1206.5538
+
+- Gonzalez, Rafael C., and Paul Wintz. *Digital Image Processing*. 2nd ed. Reading, MA: Addison-Wesley, 1987.
+
+- Kramer, Mark A. “Nonlinear Principal Component Analysis Using Autoassociative Neural Networks.” *AIChE Journal* 37, no. 2 (1991): 233–243. https://doi.org/10.1002/aic.690370209
+
+- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. “Autoencoders.” In *Deep Learning*. Cambridge, MA: MIT Press, 2016. https://www.deeplearningbook.org/contents/autoencoders.html
+
+- Kingma, Diederik P., and Max Welling. “Auto-Encoding Variational Bayes.” *arXiv*, December 20, 2013. https://doi.org/10.48550/arXiv.1312.6114
+
+- Radford, Alec, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, et al. “Learning Transferable Visual Models from Natural Language Supervision.” *Proceedings of the 38th International Conference on Machine Learning (ICML 2021)*, 8748–8763. Also *arXiv*, February 26, 2021. https://doi.org/10.48550/arXiv.2103.00020
+
+- Rosenblatt, Frank. “The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain.” *Psychological Review* 65, no. 6 (1958): 386–408. https://doi.org/10.1037/h0042519
+
+- Rumelhart, David E., Geoffrey E. Hinton, and Ronald J. Williams. “Learning Representations by Back-Propagating Errors.” *Nature* 323 (October 9, 1986): 533–536. https://doi.org/10.1038/323533a0
+
+- LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner. “Gradient-Based Learning Applied to Document Recognition.” *Proceedings of the IEEE* 86, no. 11 (1998): 2278–2324. https://doi.org/10.1109/5.726791
+
+- Elman, Jeffrey L. “Finding Structure in Time.” *Cognitive Science* 14, no. 2 (1990): 179–211. https://doi.org/10.1207/s15516709cog1402_1
+
+- Hochreiter, Sepp, and Jürgen Schmidhuber. “Long Short-Term Memory.” *Neural Computation* 9, no. 8 (1997): 1735–1780. https://doi.org/10.1162/neco.1997.9.8.1735
+
+- Kipf, Thomas N., and Max Welling. “Semi-Supervised Classification with Graph Convolutional Networks.” *arXiv*, September 9, 2016. https://doi.org/10.48550/arXiv.1609.02907
+
+- Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. “Attention Is All You Need.” *arXiv*, June 12, 2017. https://doi.org/10.48550/arXiv.1706.03762
+
+- Duman Keles, Feyza, Pruthuvi Mahesakya Wijewardena, and Chinmay Hegde. “On the Computational Complexity of Self-Attention.” *arXiv*, September 11, 2022. https://arxiv.org/abs/2209.04881
+
+- Grefenstette, Gregory. “Tokenization.” In *Syntactic Wordclass Tagging*, edited by H. van Halteren, 117–133. Dordrecht: Springer, 1999. https://doi.org/10.1007/978-94-015-9273-4_9
+
+- Ruder, Sebastian. “An Overview of Gradient Descent Optimization Algorithms.” *arXiv*, September 15, 2016. https://doi.org/10.48550/arXiv.1609.04747
+
+- Baydin, Atilim Gunes, Barak A. Pearlmutter, Alexey Andreyevich Radul, and Jeffrey Mark Siskind. “Automatic Differentiation in Machine Learning: A Survey.” *Journal of Machine Learning Research* 18 (2018): 1–43. Preprint *arXiv*, February 20, 2015. https://doi.org/10.48550/arXiv.1502.05767
+
+- Kingma, Diederik P., and Jimmy Ba. “Adam: A Method for Stochastic Optimization.” *arXiv*, December 22, 2014. https://doi.org/10.48550/arXiv.1412.6980
+
+- Lex Clips. “Transformers: The Best Idea in AI | Andrej Karpathy and Lex Fridman.” YouTube video, November 1, 2022. https://youtu.be/9uw3F6rndnA?t=393
+
+- Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. “Compute Trends Across Three Eras of Machine Learning.” *2022 International Joint Conference on Neural Networks (IJCNN)*, July 18, 2022: 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914. See also the preprint: *arXiv*, February 11, 2022. https://arxiv.org/abs/2202.05924
 
 # Chapter 3: Quantifying the Efficiency of Deep Learning
 
