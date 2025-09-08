@@ -266,10 +266,6 @@ Chapter-wise collection of bibliography.
 
 - Ganin, Yaroslav, and Victor Lempitsky. “Unsupervised Domain Adaptation by Backpropagation.” *arXiv*, 2014. https://doi.org/10.48550/arXiv.1409.7495
 
-- Brown, Tom B., Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, et al. “Language Models Are Few-Shot Learners.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2005.14165
-
-- Grattafiori, Aaron, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, et al. “The Llama 3 Herd of Models.” *arXiv*, 2024. https://doi.org/10.48550/arXiv.2407.21783
-
 - Han, Song, Jeff Pool, John Tran, and William J. Dally. “Learning Both Weights and Connections for Efficient Neural Networks.” *arXiv*, 2015. https://doi.org/10.48550/arXiv.1506.02626
 
 - LeCun, Yann, John S. Denker, and Sara A. Solla. “Optimal Brain Damage.” In *Advances in Neural Information Processing Systems 2 (NeurIPS 1989)*. https://proceedings.neurips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html
@@ -318,7 +314,8 @@ Chapter-wise collection of bibliography.
 
 - Habgood, John. “The Ethics of Resource Allocation: A Case Study.” *Journal of Medical Ethics* 9, no. 1 (March 1983): 21–24. https://doi.org/10.1136/jme.9.1.21
 
-- Meta AI. “Llama 3.1 Model Card.” *Meta Llama Documentation*, accessed September 7, 2025. https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_1/  See also: Meta AI, “Introducing Llama 3.1: Our Most Capable Models to Date,” July 23, 2024. https://ai.meta.com/blog/meta-llama-3-1/
+- Meta AI. “Llama 3.1 Model Card.” *Meta Llama Documentation*
+https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/MODEL_CARD.md
 
 - Avelar, Victor, Patrick Donovan, Paul Lin, Wendy Torell, and Maria A. Torres Arango. *The AI Disruption: Challenges and Guidance for Data Center Design*. Schneider Electric, White Paper 110, Version 1.1, September 7, 2023. https://media.datacenterdynamics.com/media/documents/Schneider_Electric_-_Modernization_WP110_V1.1_EN.pdf
 
@@ -332,13 +329,9 @@ Chapter-wise collection of bibliography.
 
 - Cai, Han, Chuang Gan, Tianzhe Wang, Zhekai Zhang, and Song Han. “Once-for-All: Train One Network and Specialize It for Efficient Deployment.” *arXiv*, 2019. https://doi.org/10.48550/arXiv.1908.09791
 
-- Bakhtiarifard, Pedram, Christian Igel, and Raghavendra Selvan. “EC-NAS: Energy Consumption Aware Tabular Benchmarks for Neural Architecture Search.” In *ICASSP 2024 – IEEE International Conference on Acoustics, Speech and Signal Processing*, 5660–5664. 2024. https://doi.org/10.1109/ICASSP48485.2024.10448303
-
 - Miettinen, Kaisa. *Nonlinear Multiobjective Optimization*. New York: Springer, 1999. https://doi.org/10.1007/978-1-4615-5563-6
 
 - Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. “Distilling the Knowledge in a Neural Network.” *arXiv*, 2015. https://doi.org/10.48550/arXiv.1503.02531
-
-- Ren, Yuxin, Benyou Wang, Lifeng Shang, Xin Jiang, and Qun Liu. “Exploring Extreme Parameter Compression for Pre-trained Language Models.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2205.10036
 
 - Kullback, Solomon, and Richard A. Leibler. “On Information and Sufficiency.” *The Annals of Mathematical Statistics* 22, no. 1 (March 1951): 79–86. https://doi.org/10.1214/aoms/1177729694
 
@@ -346,13 +339,11 @@ Chapter-wise collection of bibliography.
 
 - Li, Chaojian, Zhongzhi Yu, Yonggan Fu, Yongan Zhang, Yang Zhao, Haoran You, Qixuan Yu, Yue Wang, and Yingyan (Celine) Lin. “HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2103.10584
 
-- Frankle, Jonathan, and Michael Carbin. “The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.” *arXiv*, 2018. https://doi.org/10.48550/arXiv.1803.03635
-
 - Oliver, B. M., J. R. Pierce, and C. E. Shannon. “The Philosophy of PCM.” *Proceedings of the IRE* 36, no. 11 (November 1948): 1324–1331. https://doi.org/10.1109/JRPROC.1948.231941
 
 - Krishnamoorthi, Raghuraman, James Reed, Min Ni, Chris Gottbrath, and Seth Weidman. “Introduction to Quantization on PyTorch.” *PyTorch Blog*, March 26, 2020. https://pytorch.org/blog/introduction-to-quantization-on-pytorch/
 
-- Pereira, Rui, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, and João Saraiva. “Ranking Programming Languages by Energy Efficiency.” *Sustainable Computing: Informatics and Systems* 28 (2021): 100407. https://doi.org/10.1016/j.suscom.2021.100407
+- Pereira, Rui, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, and João Saraiva. “Ranking Programming Languages by Energy Efficiency.” *Sustainable Computing: Informatics and Systems* 28 (2021): 100407. https://doi.org/10.1016/j.scico.2021.102609
 
 - Ahmed, Nur, and Muntasir Wahed. “The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2010.15581
 
