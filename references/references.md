@@ -455,23 +455,17 @@ https://unitar.org/about/news-stories/press/global-e-waste-monitor-2024-electron
 
 - Ritchie, Hannah, Max Roser, and Pablo Rosado. “Breakdown of Carbon Dioxide, Methane and Nitrous Oxide Emissions by Sector.” *Our World in Data*, 2020. https://ourworldindata.org/emissions-by-sector
 
-- Cleaver, Harry. “The Contradictions of the Green Revolution.” *Monthly Review* 24, no. 5 (1972). https://monthlyreview.org/1972/06/01/the-contradictions-of-the-green-revolution
+- Cleaver, Harry. “The Contradictions of the Green Revolution.” *Monthly Review* 24, no. 5 (1972). https://www.jstor.org/stable/1821541
 
 - Bartoldson, Brian R., Bhavya Kailkhura, and Davis Blalock. “Compute-Efficient Deep Learning: Algorithmic Trends and Opportunities.” *Journal of Machine Learning Research* 24 (2023). https://doi.org/10.48550/arXiv.2210.06640
 
 - Newton, Adrian C. “Implications of Goodhart’s Law for Monitoring Global Biodiversity Loss.” *Conservation Letters* 4, no. 4 (2011): 264–268. https://doi.org/10.1111/j.1755-263X.2011.00167.x
 
-- Luccioni, Alexandra Sasha, et al. “Estimating the Carbon Footprint of BLOOM, a 176B-Parameter Language Model.” *Journal of Machine Learning Research* 24 (2023): 11990–12004. https://www.jmlr.org/papers/v24/23-0069.html
-
 - Wu, Carole-Jean, Bilge Acun, Ramya Raghavendra, and Kim Hazelwood. “Beyond Efficiency: Scaling AI Sustainably.” *arXiv* (June 2024). https://doi.org/10.48550/arXiv.2406.05303
-
-- Li, Pengfei, Zhenhua Han, Xinyi Zhang, Shaolei Ren, Linfeng Liu, and Jennifer Wortman Vaughan. “Making AI Less ‘Thirsty’: Uncovering and Addressing the Secret Water Footprint of AI Models.” *Communications of the ACM* 68, no. 7 (2025): 54–61. https://doi.org/10.1145/3724499
 
 - Rahman, Abdur. “Leading ML Hardware Becomes 40% More Energy-Efficient Each Year.” *Epoch AI Data Insights*, October 23, 2024. https://epoch.ai/data-insights/ml-hardware-energy-efficiency
 
 - Cottier, Ben, Robi Rahman, Loredana Fattorini, Nestor Maslej, and David Owen. “The Rising Costs of Training Frontier AI Models.” *arXiv* (May 2024). https://doi.org/10.48550/arXiv.2405.21015
-
-- Ahmed, Nur, and Muntasir Wahed. “The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research.” *Science* 379, no. 6639 (2023): 1227–1228. https://doi.org/10.1126/science.ade2420
 
 - Lehdonvirta, Vili, et al. “Compute North vs. Compute South: The Uneven Possibilities of Compute-based AI Governance Around the Globe.” In *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)*, 2024. Preprint: https://doi.org/10.31235/osf.io/8yp7z
 
@@ -480,8 +474,6 @@ https://unitar.org/about/news-stories/press/global-e-waste-monitor-2024-electron
 - Klein, Naomi. *This Changes Everything: Capitalism vs. the Climate.* New York: Simon & Schuster, 2014.
 
 - Chowdhury, Md. Arif, Md. Khalid Hasan, and Syed Labib Ul Islam. “Climate Change Adaptation in Bangladesh: Current Practices, Challenges and the Way Forward.” *The Journal of Climate Change and Health* 6 (2022): 100108. https://doi.org/10.1016/j.joclim.2021.100108
-
-- Kaack, Lynn H., Priya L. Donti, Emma Strubell, Gabrial Kamiya, Felix Creutzig, and David Rolnick. “Aligning Artificial Intelligence with Climate Change Mitigation.” *Nature Climate Change* 12, no. 6 (2022): 518–527. https://doi.org/10.1038/s41558-022-01377-7
 
 - van Wynsberghe, Aimee. “Sustainable AI: AI for Sustainability and the Sustainability of AI.” *AI and Ethics* 1 (2021): 213–218. https://doi.org/10.1007/s43681-021-00043-6
 
