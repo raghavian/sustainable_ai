@@ -47,7 +47,7 @@ Chapter-wise collection of bibliography.
 
 - Paolo, Fernando S., David Kroodsma, Jennifer Raynor, Tim Hochberg, Pete Davis, Jesse Cleary, Luca Marsaglia, Sara Orofino, Christian Thomas, and Patrick Halpin. “Satellite Mapping Reveals Extensive Industrial Activity at Sea.” *Nature* 625, no. 7993 (January 3, 2024): 85–91. https://doi.org/10.1038/s41586-023-06825-8
 
-- Morozov, Evgeny. *To Save Everything, Click Here: Technology, Solutionism and the Urge to Fix Problems That Don’t Exist.* Review in *Information Polity* 18, no. 3 (July 1, 2013): 275–76. (No DOI available.)
+- Morozov, Evgeny. *To Save Everything, Click Here: Technology, Solutionism and the Urge to Fix Problems That Don’t Exist.* Review in *Information Polity* 18, no. 3 (July 1, 2013): 275–76.
 
 - Brevini, Benedetta. “Myths, Techno-Solutionism and Artificial Intelligence: Reclaiming AI Materiality and Its Massive Environmental Costs.” In *Handbook of Critical Studies of Artificial Intelligence*, edited by Simon Lindgren, 869–77. Cheltenham, UK: Edward Elgar Publishing, 2023. https://doi.org/10.4337/9781803928562.00086
 
@@ -131,11 +131,9 @@ Chapter-wise collection of bibliography.
 
 - Lex Clips. “Transformers: The Best Idea in AI | Andrej Karpathy and Lex Fridman.” YouTube video, November 1, 2022. https://youtu.be/9uw3F6rndnA?t=393
 
-- Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. “Compute Trends Across Three Eras of Machine Learning.” *2022 International Joint Conference on Neural Networks (IJCNN)*, July 18, 2022: 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914. See also the preprint: *arXiv*, February 11, 2022. https://arxiv.org/abs/2202.05924
+- Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. “Compute Trends Across Three Eras of Machine Learning.” *2022 International Joint Conference on Neural Networks (IJCNN)*, July 18, 2022: 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914. 
 
 ## Quantifying the Efficiency of Deep Learning
-
-- Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. “Compute Trends Across Three Eras of Machine Learning.” *Proceedings of the 2022 International Joint Conference on Neural Networks (IJCNN)*, July 18, 2022, 1–8. https://doi.org/10.1109/IJCNN55064.2022.9891914
 
 - Wright, Dustin, Christian Igel, Gabrielle Samuel, and Raghavendra Selvan. “Efficiency Is Not Enough: A Critical Perspective of Environmentally Sustainable AI.” *Communications of the ACM* 68, no. 7 (2025): 62–69. https://doi.org/10.1145/3724500
 
@@ -176,7 +174,7 @@ Chapter-wise collection of bibliography.
 
 - Grattafiori, Aaron, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, et al. “The Llama 3 Herd of Models.” *arXiv*, 2024. https://doi.org/10.48550/arXiv.2407.21783
 
-- International Energy Agency. “Data Centres and Data Transmission Networks.” IEA, 2023. https://www.iea.org/analyses/data-centres-and-data-transmission-networks
+- International Energy Agency. “Data Centres and Data Transmission Networks.” IEA, 2023. https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks
 
 - Freitag, Charlotte, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Blair, and Adrian Friday. “The Climate Impact of ICT: A Review of Estimates, Trends and Regulations.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2102.02622
 
@@ -187,8 +185,6 @@ Chapter-wise collection of bibliography.
 - Hoffmann, Jordan, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, et al. “Training Compute-Optimal Large Language Models.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2203.15556
 
 - Villalobos, Pablo, and Anson Ho. *Trends in Training Dataset Sizes.* Epoch AI, 2022. https://epoch.ai/blog/trends-in-training-dataset-sizes
-
-- Anthony, Lasse F. Wolff, Benjamin Kanding, and Raghavendra Selvan. “CarbonTracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2007.03051
 
 - Desislavov, Radosvet, Fernando Martínez-Plumed, and José Hernández-Orallo. “Compute and Energy Consumption Trends in Deep Learning Inference.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2109.05472
 
@@ -213,8 +209,6 @@ Chapter-wise collection of bibliography.
 - Zhao, Bo, Konda Reddy Mopuri, and Hakan Bilen. “Dataset Condensation with Gradient Matching.” *arXiv*, 2020. https://doi.org/10.48550/arXiv.2006.05929
 
 - Amid, Ehsan, Rohan Anil, Wojciech Kotłowski, and Manfred K. Warmuth. “Learning from Randomly Initialized Neural Network Features.” *arXiv*, 2022. https://doi.org/10.48550/arXiv.2202.06438
-
-- Wolpert, David H., and William G. Macready. “No Free Lunch Theorems for Optimization.” *IEEE Transactions on Evolutionary Computation* 1, no. 1 (1997): 67–82. https://doi.org/10.1109/4235.585893
 
 - Jin, Wei, Lingxiao Zhao, Shichang Zhang, Yozen Liu, Jiliang Tang, and Neil Shah. “Graph Condensation for Graph Neural Networks.” *arXiv*, 2021. https://doi.org/10.48550/arXiv.2110.07580
 
