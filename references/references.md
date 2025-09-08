@@ -421,8 +421,6 @@ https://unitar.org/about/news-stories/press/global-e-waste-monitor-2024-electron
 
 - Kapoor, Sayash, and Arvind Narayanan. “Leakage and the Reproducibility Crisis in ML-Based Science.” *Patterns* 4, no. 9 (2023): 100804. https://doi.org/10.1016/j.patter.2023.100804
 
-- Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. “Scaling Laws for Neural Language Models.” *arXiv*, January 23, 2020. https://doi.org/10.48550/arXiv.2001.08361
-
 - Heidorn, P. Bryan. “Shedding Light on the Dark Data in the Long Tail of Science.” *Library Trends* 57, no. 2 (2008): 280–299. https://doi.org/10.1353/lib.0.0036
 
 - Evchenko, Mikhail, Joaquin Vanschoren, Holger H. Hoos, Marc Schoenauer, and Michèle Sebag. “Frugal Machine Learning.” *arXiv*, November 5, 2021. https://doi.org/10.48550/arXiv.2111.03731
@@ -433,7 +431,7 @@ https://unitar.org/about/news-stories/press/global-e-waste-monitor-2024-electron
 
 - Selvan, Raghavendra, Bob Pepin, Christian Igel, Gabrielle Samuel and Erik B Dam. “PePR: Performance Per Resource Unit as a Metric to Promote Small-Scale Deep Learning in Medical Image Analysis.” *Proceedings of Machine Learning Research* 265 (2025). https://proceedings.mlr.press/v265/selvan25a.html
 
-- International Organization for Standardization/International Electrotechnical Commission/IEEE. *ISO/IEC/IEEE 32675:2022 Information Technology—DevOps—Building Reliable and Secure Systems Including Application Build, Package and Deployment.* Geneva: ISO/IEC/IEEE, 2022. https://www.iso.org/standard/83132.html
+- International Organization for Standardization/International Electrotechnical Commission/IEEE. *ISO/IEC/IEEE 32675:2022 Information Technology—DevOps—Building Reliable and Secure Systems Including Application Build, Package and Deployment.* Geneva: ISO/IEC/IEEE, 2022. https://www.iso.org/standard/83670.html
 
 - Salama, Khalid, Jarek Kazmierczak, and Donna Schut. *Practitioners Guide to MLOps: A Framework for Continuous Delivery and Automation of Machine Learning.* Google Cloud, May 2021. https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
 
