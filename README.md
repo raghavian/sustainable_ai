@@ -1,6 +1,5 @@
 # Official Repository for the book "Sustainable AI" by Raghavendra Selvan (O'Reilly, 2025)
 
-![cover](figures/cover.png)
 
 # Table of Contents
 
@@ -8,6 +7,8 @@
 2. [Exercises](#exercises)
 3. [List of References](#list-of-references)
 4. [Additional Material](#additional-material)
+
+![cover](figures/cover.png)
 
 ## Preface
 
