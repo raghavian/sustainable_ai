@@ -24,4 +24,6 @@ This book is an attempt to lay out these arguments so that we can make meaningfu
 
 ## [List of References](references/references.md)
 
+The book uses footnote-style referencing, and there is no single bibliography list in the book. The complete list of references, and additional reading material per chapter is provided [here](references/references.md).
+
 ## [Additional Material](exercises/additional.md)
