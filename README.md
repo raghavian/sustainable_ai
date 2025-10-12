@@ -20,10 +20,14 @@ The main argument in this book is that the material basis for any technology sho
 
 This book is an attempt to lay out these arguments so that we can make meaningful trade-offs that advance the sustainability of AI, while using it to improve the sustainability of our planet. To do this, the book presents practical tools and conceptual frameworks that will help us assess and grapple with the complex interplay between sustainability and AI.
 
-## [Exercises](exercises/exercises.md)
+## [Exercises](files/exercises.md)
 
-## [List of References](references/references.md)
+The book provides small worked examples along with the text. These are not complete by themselves as I have omitted package loading, book keeping, and other standard code. The complete code to run each of the examples, along with additional context, is provided [here](files/exercises.md).
 
-The book uses footnote-style referencing, and there is no single bibliography list in the book. The complete list of references, and additional reading material per chapter is provided [here](references/references.md).
+## [List of References](files/references.md)
 
-## [Additional Material](exercises/additional.md)
+The book uses footnote-style referencing, and there is no single bibliography list in the book. The complete list of references, and additional reading material per chapter is provided [here](files/references.md).
+
+## [Additional Material](files/additional.md)
+
+## [Reproducibility](files/reproducibility.md)
