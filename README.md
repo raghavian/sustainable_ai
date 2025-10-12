@@ -7,6 +7,7 @@
 2. [Exercises](#exercises)
 3. [List of References](#list-of-references)
 4. [Additional Material](#additional-material)
+5. [Reproducibility](#reproducibility)
 
 ![cover](figures/cover.png)
 
@@ -31,3 +32,5 @@ The book uses footnote-style referencing, and there is no single bibliography li
 ## [Additional Material](files/additional.md)
 
 ## [Reproducibility](files/reproducibility.md)
+
+Most of the figures in the book should be reproducible, if they are not derived from other sources. The data and code to reproduce all the book figures are provided [here](files/reproducibility.md).
