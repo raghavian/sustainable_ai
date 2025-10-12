@@ -1,4 +1,4 @@
-# Official Repository for book on "Sustainable AI" by Raghavendra Selvan (2025)
+# Official Repository for the book "Sustainable AI" by Raghavendra Selvan (O'Reilly, 2025)
 
 ![cover](figures/cover.png)
 
