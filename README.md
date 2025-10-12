@@ -9,7 +9,7 @@
 3. [List of References](#list-of-references)
 4. [Additional Material](#additional-material)
 
-## [Preface]
+## Preface
 
 Climate change is at our door step. It is causing heat waves, flash floods, droughts, and other erratic weather patterns. Addressing the challenges posed by climate change will be the defining project of our times. To do this, we should employ all the tools at our disposal. And one of the most powerful tools currently is artificial intelligence (AI), which has revolutionized tasks in many application domains. As such, AI can be indispensable in our efforts to combat climate change. 
 
