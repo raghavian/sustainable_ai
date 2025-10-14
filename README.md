@@ -6,8 +6,8 @@
 1. [Preface to the book](#preface)
 2. [Exercises](#exercises)
 3. [List of References](#list-of-references)
-4. [Additional Material](#additional-material)
-5. [Reproducibility](#reproducibility)
+4. [Reproducibility](#reproducibility)
+5. [Additional Material](#additional-material)
 
 ![cover](figures/cover.png)
 
@@ -29,8 +29,11 @@ The book provides small worked examples along with the text. These are not compl
 
 The book uses footnote-style referencing, and there is no single bibliography list in the book. The complete list of references, and additional reading material per chapter is provided [here](files/references.md).
 
-## [Additional Material](files/additional.md)
 
 ## [Reproducibility](files/reproducibility.md)
 
 Most of the figures in the book should be reproducible, if they are not derived from other sources. The data and code to reproduce all the book figures are provided [here](files/reproducibility.md).
+
+## [Additional Material](files/additional.md)
+
+Not all the content I wanted to cover made it to the book. I will update additional resources [here](files/additional.md)
