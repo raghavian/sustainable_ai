@@ -2,6 +2,32 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import math
+import numpy as np
+
+# Define a Simple GPT model
+class SimpleGPT(nn.Module):
+    def __init__(self, vocab_size, embed_size, num_heads, hidden_dim, num_layers, max_seq_len):
+        super(SimpleGPT, self).__init__()
+        self.embed_size = embed_size
+        self.token_embedding = nn.Embedding(vocab_size, embed_size)
+        self.position_embedding = nn.Embedding(max_seq_len, embed_size)
+        
+        self.layers = nn.ModuleList(
+            [nn.TransformerEncoderLayer(embed_size, num_heads, hidden_dim) for _ in range(num_layers)]
+        )
+        self.fc_out = nn.Linear(embed_size, vocab_size)
+
+    def forward(self, x):
+        N, seq_length = x.shape
+        positions = torch.arange(0, seq_length).expand(N, seq_length).to(x.device)
+        
+        x = self.token_embedding(x) + self.position_embedding(positions)
+        
+        for layer in self.layers:
+            x = layer(x)
+        
+        out = self.fc_out(x)
+        return out
 
 ### Basic Vision Transformer
 
