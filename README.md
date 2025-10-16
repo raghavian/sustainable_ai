@@ -9,6 +9,7 @@
 3. [List of References](#list-of-references)
 4. [Reproducibility](#reproducibility)
 5. [Additional Material](#additional-material)
+6. [Usage Guidelines](#usage-guidelines)
 
 ![cover](figures/cover.png)
 
@@ -38,3 +39,17 @@ Most of the figures in the book should be reproducible, if they are not derived 
 ## [Additional Material](files/additional.md)
 
 Not all the content I wanted to cover made it to the book. I will update additional resources [here](files/additional.md)
+
+## Usage Guidelines
+
+* Kindly cite the book if you use any part of the code or the figures
+```
+@book{selvan2025sustainable-ai,
+  title     = {Sustainable AI},
+  author    = {Raghavendra Selvan},
+  year      = {2025},
+  publisher = {O'Reilly},
+  url       = {https://raghavian.github.io/sustainable-ai/}
+}
+```
+
