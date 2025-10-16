@@ -3,6 +3,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 import math
 import numpy as np
+from sustainableai.datasets import encode,decode
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # Define a Simple GPT model
 class SimpleGPT(nn.Module):
@@ -66,6 +68,26 @@ class EncoderBlock(nn.Module):
         x = x + attn_out
         x = x + self.mlp(self.ln2(x))
         return x
+
+@torch.inference_mode()
+def generate_text(model, stoi, itos, prompt, max_seq_len, max_length=200, temperature=1.0):
+    model.eval()
+    ids = torch.tensor([encode(prompt, stoi)], dtype=torch.long, device=device)
+
+    steps = max(0, max_length - ids.size(1))
+    for _ in range(steps):
+        inp = ids[:, -max_seq_len:]  # strict window; model never sees > max_seq_len tokens
+        with torch.autocast(device_type="cuda", dtype=torch.float16, enabled=(device.type == "cuda")):
+            logits = model(inp)[:, -1, :]  # [1, V]
+        if temperature != 1.0:
+            logits = logits / temperature
+        probs = torch.softmax(logits, dim=-1)
+        next_id = torch.multinomial(probs, num_samples=1)  # stays on device
+        ids = torch.cat([ids, next_id], dim=1)
+
+    return decode(ids[0].tolist(), itos)
+
+### ViT Model
 
 class ViT(nn.Module):
     def __init__(
