@@ -31,6 +31,27 @@ class SimpleGPT(nn.Module):
         out = self.fc_out(x)
         return out
 
+# Define the autoencoder architecture
+class Autoencoder(nn.Module):
+    def __init__(self, latent_dim, hidden):
+        super(Autoencoder, self).__init__()
+        self.encoder = nn.Sequential(
+            nn.Linear(3*28*28, hidden),
+            nn.ReLU(),
+            nn.Linear(hidden, latent_dim),
+        )
+        self.decoder = nn.Sequential(
+            nn.Linear(latent_dim,hidden),
+            nn.ReLU(),
+            nn.Linear(hidden,3*28*28),
+            nn.Sigmoid()
+        )
+
+    def forward(self, x):
+        encoded = self.encoder(x)
+        decoded = self.decoder(encoded)
+        return encoded, decoded
+
 ### Basic Vision Transformer
 
 class PatchEmbed(nn.Module):
