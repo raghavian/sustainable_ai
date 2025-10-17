@@ -1,7 +1,7 @@
 ### Import torch and utils
 import torch
 import torch.nn as nn
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset, DataLoader, Subset
 import matplotlib.pyplot as plt
 from pathlib import Path
 
@@ -27,7 +27,30 @@ class AerialNIST(Dataset):
         ### Method to fetch indexed element
         return self.data[index], self.target[index].type(torch.FloatTensor)
 
+def collate_float_long(batch):
+    x, y = default_collate(batch)
+    # images to float32, scale if they are uint8
+    x = x.float()
+    if x.dtype == torch.float32 and x.max() > 1.0:  # in case data is 0..255 as float
+        x = x / 255.0
+    if x.dtype == torch.uint8:                      # rare, but handle anyway
+        x = x.float() / 255.0
+    # labels to long for CrossEntropyLoss
+    if isinstance(y, torch.Tensor) and y.dtype != torch.long:
+        y = y.long()
+    return x, y
 
+def split_40k_10k_10k(ds, seed=0):
+    n = len(ds)
+    if n < 60000:
+        raise ValueError(f"need at least 60000 samples, got {n}")
+    g = torch.Generator().manual_seed(seed)
+    idx = torch.randperm(n, generator=g).tolist()[:60000]
+    train_idx = idx[:40000]
+    val_idx   = idx[40000:50000]
+    test_idx  = idx[50000:60000]
+    return Subset(ds, train_idx), Subset(ds, val_idx), Subset(ds, test_idx)
+    
 class FAIRYTALES(Dataset):
     def __init__(self, path='../data/fairytales.txt'): 
         self.lines = Path(path).read_text(encoding="utf-8").splitlines()
