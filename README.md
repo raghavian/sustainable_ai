@@ -44,6 +44,8 @@ Not all the content I wanted to cover made it to the book. I will update additio
 
 ## Usage Guidelines
 
+If you find any errors or have suggestions for improvement, please raise Github issues, or fell free to contact me at raghav@di.ku.dk
+
 Kindly cite the book if you use any part of the text, code, or the figures
 ```
 @book{selvan2025sustainable-ai,
