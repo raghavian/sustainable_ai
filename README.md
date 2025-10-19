@@ -2,6 +2,8 @@
 
 ### **Get your copy of the book:** [Amazon](https://www.amazon.com/Sustainable-AI-Tools-Moving-Toward-ebook/dp/B0FVBMGKTX), [Publisher Portal](https://www.oreilly.com/library/view/sustainable-ai/9781098155506/) 
 
+Check out the [book webpage](https://raghavian.github.io/sustainable-ai/) for updates.
+
 # Table of Contents
 
 1. [Preface to the book](#preface)
