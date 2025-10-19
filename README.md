@@ -44,7 +44,7 @@ Not all the content I wanted to cover made it to the book. I will update additio
 
 ## Usage Guidelines
 
-Kindly cite the book if you use any part of the code or the figures
+Kindly cite the book if you use any part of the text, code, or the figures
 ```
 @book{selvan2025sustainable-ai,
   title     = {Sustainable AI},
