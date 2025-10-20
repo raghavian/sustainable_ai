@@ -39,7 +39,7 @@ The book uses footnote-style referencing, and there is no single bibliography li
 
 Most of the figures in the book should be reproducible, if they are not derived from other sources. The data and code to reproduce all the book figures are provided [here](files/reproducibility.md).
 
-## [Errata]
+## [Errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920942061)
 
 To err is human, and all. The book has been checked multiple times for correctness and language. However, as with everything that is sent for publication, we have spotted errors. A comprehensive list of errata will be maintained [here](https://www.oreilly.com/catalog/errata.csp?isbn=0636920942061).
 
