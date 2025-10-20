@@ -10,8 +10,9 @@ Check out the [book webpage](https://raghavian.github.io/sustainable-ai/) for up
 2. [Exercises](#exercises)
 3. [List of References](#list-of-references)
 4. [Reproducibility](#reproducibility)
-5. [Additional Material](#additional-material)
-6. [Usage Guidelines](#usage-guidelines)
+5. [Errata](#errata)
+6. [Additional Material](#additional-material)
+7. [Usage Guidelines](#usage-guidelines)
 
 ![cover](figures/cover.png)
 
@@ -37,6 +38,14 @@ The book uses footnote-style referencing, and there is no single bibliography li
 ## [Reproducibility](files/reproducibility.md)
 
 Most of the figures in the book should be reproducible, if they are not derived from other sources. The data and code to reproduce all the book figures are provided [here](files/reproducibility.md).
+
+## [Errata]
+
+To err is human, and all. The book has been checked multiple times for correctness and language. However, as with everything that is sent for publication, we have spotted errors. A comprehensive list of errata will be maintained [here](https://www.oreilly.com/catalog/errata.csp?isbn=0636920942061).
+
+If you find any errors, please report them as well. Future reprints will have them fixed.
+
+
 
 ## [Additional Material](files/additional.md)
 
